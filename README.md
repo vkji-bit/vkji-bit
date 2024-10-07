@@ -15,12 +15,10 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/abhijeet_2709" target="blank"><img src="https://img.shields.io/twitter/follow/abhijeet_2709?logo=twitter&style=for-the-badge" alt="abhijeet_2709" /></a> </p>
+<a>guptavineet752@gmail.com</a>
 <p align="left">
-<a href="https://twitter.com/abhijeet_2709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijeet_2709" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhijeet-sri11?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhijeet-sri11?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/xpredatorx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xpredatorx" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/abhijeetmbvxp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abhijeetmbvxp/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vineet-gupta-699081260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhijeet-sri11?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vk-bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xpredatorx" height="30" width="40" /></a>>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
