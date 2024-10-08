@@ -39,9 +39,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a>
   <a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nessus.svg" alt="nessus" width="40" height="40"/> 
+    <img src="https://cdn.splunkbase.splunk.com/media/public/icons/16056eec-a549-11ee-acc4-06d995b2dcd2.svg" alt="nessus" width="40" height="40"/> 
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/63808934/135857078-2999fd7c-ec20-49d6-b4d9-3cf74622e379.png" alt="burpsuite" width="40" height="40"/> 
+    <img src="https://miro.medium.com/v2/resize:fit:325/1*NT5nvK-S6lm26cIls-aBDQ.png" alt="burpsuite" width="40" height="40"/> 
   </a>
 </p>
