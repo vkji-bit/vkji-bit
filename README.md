@@ -1,4 +1,4 @@
-![красотищатокакая-code](https://user-images.githubusercontent.com/88341460/189535591-84f204da-08af-4989-821f-e6608902a4a1.gif)                 ![bitcoin-coin](https://user-images.githubusercontent.com/88341460/189537491-36fbdb9c-165b-4600-ac5b-92a070b8e4f7.gif)
+![красотищатокакая-code](https://user-images.githubusercontent.com/88341460/189535591-84f204da-08af-4989-821f-e6608902a4a1.gif)                 ![bitcoin-coin]
 <h1 align="center">Hi, Vineet this Side</h1>
 <h3 align="center">"Penetration tester : try to find real world vulnerability "</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
