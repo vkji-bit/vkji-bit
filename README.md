@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![красотищатокакая-code](https://user-images.githubusercontent.com/88341460/189535591-84f204da-08af-4989-821f-e6608902a4a1.gif)                 ![bitcoin-coin](https://user-images.githubusercontent.com/88341460/189537491-36fbdb9c-165b-4600-ac5b-92a070b8e4f7.gif)
 <h1 align="center">Hi, Vineet this Side</h1>
 <h3 align="center">"Penetration tester : try to find real world vulnerability "</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
@@ -36,11 +36,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="kali linux" width="40" height="40"/> 
+    <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/kali-linux-dragon-logo.png" alt="kali linux" width="40" height="40"/> 
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
